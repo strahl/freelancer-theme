@@ -5,7 +5,7 @@ date: 2016-07-21
 img: cake.png
 alt: image-alt
 project-date: April 2014
-client: Family
+client: Start Bootstrap
 category: Food
 description: Here we collect healthy recipes that can replace unhealthy yummy food.
 
