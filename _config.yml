@@ -2,8 +2,8 @@
 title: Stefan Strahl
 email: stef@nstrahl.de
 url: https://strahl.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Neuroscientist - Hacker - Geek"
+description: "Neuroscientist - Hacker - Dad"
+skills: "Neuroscientist - Hacker - Dad"
 meta_author: Strahl Stefan
 
 # Google webmaster tools
@@ -16,7 +16,7 @@ bing_verify:
 # - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
-contact: static
+contact: disqus
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
@@ -46,6 +46,14 @@ social:
     url: http://stackoverflow.com/users/4278397/stefan-strahl
   - title: github
     url: http://github.com/strahl
+  - title: google-plus
+    url: 
+  - title: flickr
+    url: 
+  - title: pinterest
+    url: 
+  - title: google-plus
+    url: linkedin
 
 # Postal address (add as many lines as necessary)
 address:
@@ -54,7 +62,7 @@ address:
   - line: Germany
 
 # Credits content
-credits: 'Based on <a href="http://startbootstrap.com">Freelancer</a>.'
+credits: 'Based on jekyll theme <a href="http://startbootstrap.com">Freelancer</a>.'
 
 # Build settings
 markdown: kramdown
